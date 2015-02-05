@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PHP Portál - <?php echo $pageTitle; ?></title>
+    <title>Hírportál - <?php echo $pageTitle; ?></title>
     <link rel="stylesheet" type="text/css" href="views/css/base.css">
     
     <!-- jQuery: -->
@@ -20,6 +20,6 @@
   <body>
 
     <div id="header">
-      <h1 id="sitename">PHP Portál</h1>
+      <h1 id="sitename">Hírportál</h1>
       <?php include('navigation.php'); ?>
     </div>
